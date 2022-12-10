@@ -1,4 +1,4 @@
-# Django_Projecy
+# Django_Project - city zone
 use to handle common web development tasks
 
 Fully loaded.
